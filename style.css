@@ -31,3 +31,12 @@ section#tel{
     width: 311px;
     height: 627px;
 }
+
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 472px;
+    width: 268px; 
+
+    }
